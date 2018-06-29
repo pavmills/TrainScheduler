@@ -1,0 +1,25 @@
+
+
+.schedule-container {
+     min-width: 800px;
+}
+
+.input-container {
+     min-width: 800px;
+}
+
+ body {
+        background-image: url("../images/Grand_Central.jpg") no-repeat center center fixed;
+    
+   }
+
+ table {
+     border-collapse: separate;
+     border-spacing: 6px;
+}
+
+.jumbotron {
+     color: white;
+     background-color: rgba(0,0,0,0.3);
+     min-width: 800px;
+}
